@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: arial;
+}
+body{
+	background-color: gray;
+}
+
+.wrap{
+	width: 500px;
+	margin: 50px auto;
+	padding: 10px;
+}
+input{
+	margin-bottom: 20px;
+}
+label{
+	margin-bottom: 14px;
+}
+
+.profile img{
+	width: 200px;
+	height: 200px;
+	display: block;
+	border-radius: 50%;
+	margin: auto;
+	border: 10px solid #FFF;
+}
+.profile h1{
+	font-family: impact;
+	text-align: center;
+	font-weight: normal;
+}
+
+.log {
+	width: 960px;
+	margin: 100px auto;
+}

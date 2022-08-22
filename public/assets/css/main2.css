@@ -1,0 +1,34 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	
+}
+.log2 {
+    width: 700px;
+    background-color: darkgray;
+    padding: 20px;
+    margin: 20px auto;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-collapse: collapse;
+}
+.log2 img {
+    width: 170px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+.log2 h1 {
+    text-align: center;
+    font-family: candara;
+    font-weight: 800;
+    font-size: 30px;
+}
+.log2 h3{
+	text-align: center;
+}
